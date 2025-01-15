@@ -2,7 +2,7 @@
 
 - 👋 Hi, My name is Chelsea Muhwati and i am an industrial engineering student in my 3rd year at the University of Toronto.
 - 👀 I’m interested in Ai and Machine learning as well as Data Science. I have done many projects that i throughly enjoyed.
-- 🌱 I’m currently learning about Data modelling and Data Engineering, as well as advancing my skills in SQL
+- 🌱 I’m currently learning about AI and Deep Learning, as well as advancing my skills in SQL
 
   
 ![images](https://github.com/user-attachments/assets/0bef29a5-dbde-44ab-b766-859f74a5d41a)
